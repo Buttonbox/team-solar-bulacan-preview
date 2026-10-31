@@ -1,0 +1,8 @@
+.env
+.env.*
+node_modules/
+data/
+*.sqlite*
+*.db*
+*.key
+*.pem
